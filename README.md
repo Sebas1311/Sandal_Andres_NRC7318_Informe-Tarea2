@@ -11,7 +11,7 @@
 2.- Objetivos: 
    2.1.- Objetivo general
          
-         Determinar la ley de Ohm y sus formulas derivadas, aplicándolas en el cálculo tanto de corriente eléctrica, resistencia y voltaje para poder obtener lo              datos correctos en el circuito elétrico.
+Determinar la ley de Ohm y sus formulas derivadas, aplicándolas en el cálculo tanto de corriente eléctrica, resistencia y voltaje para poder obtener lo              datos correctos en el circuito elétrico.
          
    2.2.- Objetivos específicos
 - Definir la formula principal o la más adecuada para obtener las derivadas de la misma.
