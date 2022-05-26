@@ -27,15 +27,15 @@
 
    4.1.- Ley de Ohm
    
-2.Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
+2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 
 I = V / R
 
-4.Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
 R = V / I
 
-6.En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
+6. En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
 
 Sacando la resistencia del circuito: R = V/I     →    R = 1 V/5 mA   →    R = 0.2 kΩ 
 
@@ -60,13 +60,14 @@ Sacando la resistencia del circuito: R = V/I     →    R = 1 V/5 mA   →    R 
 * I = V / R   →      I = 10 V / 0.2 kΩ       →   I = 50 mA
 
 
-8.Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 
 -Resistencia: 8200 Ω ± 5%
 
 -La corriente se incrementaría cuatro veces si el voltaje se duplica y la resistencia se reduce a la mitad.
 
-10.¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
+10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
 ![image](https://user-images.githubusercontent.com/105617383/170329429-c89b86c4-f093-443b-bef0-51e61e676082.png)
 
@@ -79,6 +80,62 @@ Sacando la resistencia del circuito: R = V/I     →    R = 1 V/5 mA   →    R 
 El circuito que tiene más corriente es el circuito (c).
 
 El cicrcuito que tiene menos corriente es el circuito (a).
+
+
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+- IR = 100mA      →         R = V/IR              →  V = Ir × A
+- Ir = 150mA         →     R = 20 V / 100 mA          →  V = 150 mA × 0.2 Ω
+- V = 20V           →      R = 0.2 Ω                → V = 30 V
+ 
+SE cambiaria la fuente a 30v
+ 
+ 
+14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
+SECCIÓN 3-2 Cálculo de la corriente
+
+
+16. Determine la corriente en cada caso:
+
+- a) V = 9 V,   R = 2.7 kΩ  
+
+→    I = V/R  →  I = 9 v/2.7 kΩ    →    I = 18.15 mA
+
+- b) V = 5.5 V, R = 10 kΩ    
+
+→    I = V/R  →  I = 5.5 v/10 kΩ   →    I = 0.55 mA
+
+- c) V = 40 V, R = 68 kΩ   
+
+→    I = V/R  →  I = 40 v/68 kΩ    →    I = 0.59 mA
+
+- d) V = 1 kV, R = 2.2 kΩ  
+
+→    I = V/R  →  I = 1 kV/2.2 kΩ   →    I = 0.45 A
+
+- e) V = 66 kV, R = 10 MΩ  
+
+→    I = V/R  →  I = 66 kV/10 MΩ   →    I = 6.6 mA
+
+
+18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+-Coolores de la resistencia mencionada obtienen un valor de 3.3kΩ, para calcular el valor maximo de la corriente y el valor minimo se considera la tolerancia, en este caso la tolerancoia es del 5 %.Por lo tanto, se resta y se suma el 5 % al valor de la resistencia.
+
+-Se obtiene que el nuevo valor +5% es de 3.35kΩ, la corriente que pasa por este valor utilizando la ley de ohm es de 3.58mA.
+
+-El valor obtenido -5% de tolarancia es de 3.25%. la corriente que pasa por este valor utilizando la ley de ohm es de 3.69mA.
+
+-La respuesta final: El valor de corriente es de 3.69mA mientras que el valor minimo es de 3.58mA
+
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+![image](https://user-images.githubusercontent.com/105617383/170416156-c25aa028-9095-494b-a963-87591e018971.png)
+
+-El valor de la resistencia es de 37.4kΩ. Para calcular la corriente, se utlizar la ley de ohm I= V/R, el resultado es: 0.32A
+
 
 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8  o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
@@ -208,7 +265,51 @@ En base a la imagen expuesta, se ha deducido que el foco fundio seria el número
 
 4.2.- Energía y potencia
   
+  2. Demuestre que hay 3.6 x10^6 joules en un kilowatt-hora.
   
+  1 kw = 1000 J/s
+  
+  1kw/h = 1000J/S × 3600s/1h) = 3.6x10^6 J
+  
+  
+  4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+  
+  P = J/t = 7500 J / 5 h × (1h/3600s) = 0.4166 watts
+  
+  
+  6. Convierta las siguientes cantidades en kilowatts:
+  
+  *a) 1000 W = 1000 W × (0.001kw/1W) = 1 kw*
+  
+  *b) 3750 W =  3750 W × (0.001kw/1W) = 3.75 kw*
+  
+  *c) 160 W = 160 W × (0.001kw/1W) = 0.16 kw*
+  
+  *d) 50,000 W = 50000W × (0.001kw/1W) = 50 kw*
+  
+  
+  8. Convierta las siguientes cantidades en miliwatts:
+  
+  *a) 1 W = 1W × (1000 mW/1W) = 1000 mW*
+  
+  *b) 0.4 W = 0.4W × (1000 mW/1W) = 400 mW*
+  
+  *c) 0.002 W = 0.002 W × (1000 mW/1W) = 2 mW*
+  
+  *d) 0.0125W = 0.0125W × (1000 mW/1W) = 12.5 mW*
+  
+  
+  10. Convierta las siguientes cantidades en watts:
+  
+  *a) 1.5 kW = 1.5 Kw × (1x10^3 W / 1 kW) = 1500 W*
+  
+  *b) 0.5 MW = 0.5 MW × (1x10^6 W / 1 MW) = 5x10^6 W*
+  
+  *c) 350 mW = 350 mW × (1x10^-3 W / 1 mW) = 0.35 W*
+   
+  *d) 9000 µW = 9000 µW × (1x10^-6 W / 1 µW) = 9x10^-3 W*
+  
+
   12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
   
   *Datos:*
