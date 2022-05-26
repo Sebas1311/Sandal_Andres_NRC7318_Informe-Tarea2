@@ -1,4 +1,4 @@
-Universidad de las Fuerzas Armadas - Espe
+                                                 Universidad de las Fuerzas Armadas - Espe
                                                    Fundamentos de circuitos electrónicos 
 - Nombre: Andrés Sandal
 - NRC: 7318
