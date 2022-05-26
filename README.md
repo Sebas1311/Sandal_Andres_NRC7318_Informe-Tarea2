@@ -268,3 +268,16 @@ En base a la imagen expuesta, se ha deducido que el foco fundio seria el número
   -Localización de fallas y análisis con archivos Multisim
   
 38. Abra el archivo P04-38 y determine la corriente, el voltaje y la resistencia. Con los valores medidos, calcule la potencia.
+
+
+5.- Video
+
+6.- Conclusiones
+
+Para fnalizar, la ley de ohm o en otras palabras la formula (V = I × R), es la que nos permite hallar uno de los tres factores abarcados por esta ley y entender que entre ellas estan relacionadas ya sea linealmente dependiente (corriente-voltaje) o inversamente dependiente (corriente-resistencia); Es impresindible el saber relacionar y depejar esta formula para poder usarla de la manera correcta. Cabe recalcar que esta formula es la base para poder relacionarlas con otras más complejas.
+
+7.- Bibliografía
+
+Floyd, T. (2007). Principios de circuitos eléctricos (Octava ed.). PEARSON EDUCACIÓN.
+
+Glen, A. (2019). ¿Qué es la ley de Ohm? | Fluke. Fluke Corporation. Recuperado mayo 26, 2022, de https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohm
