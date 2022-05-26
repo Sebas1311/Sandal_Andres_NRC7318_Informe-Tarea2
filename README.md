@@ -14,9 +14,9 @@
          Determinar la ley de Ohm y sus formulas derivadas, aplicándolas en el cálculo tanto de corriente eléctrica, resistencia y voltaje para poder obtener lo              datos correctos en el circuito elétrico.
          
    2.2.- Objetivos específicos
-         - Definir la formula principal o la más adecuada para obtener las derivadas de la misma.
-         - Aplicar correctamente las formulas que pertenecen a la ley de ohm  en la resolución de ejercicios.
-         - Relacionar graficas de circuitos electrónicos con la ley de ohm para saber cuando usarlo y como hacerlo de la mejor manera. 
+- Definir la formula principal o la más adecuada para obtener las derivadas de la misma.
+- Aplicar correctamente las formulas que pertenecen a la ley de ohm  en la resolución de ejercicios.
+- Relacionar graficas de circuitos electrónicos con la ley de ohm para saber cuando usarlo y como hacerlo de la mejor manera. 
 
 3.- Marco teórico
 ![image](https://user-images.githubusercontent.com/105684550/170439331-e718d0b4-8495-49fd-bde4-dad5b95c788c.png)
