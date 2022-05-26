@@ -279,24 +279,24 @@ En base a la imagen expuesta, se ha deducido que el foco fundio seria el número
   
   6. Convierta las siguientes cantidades en kilowatts:
   
-  *a) 1000 W = 1000 W × (0.001kw/1W) = 1 kw*
+  *a) 1000 W = 1000 W × (0.001 kw / 1 W) = 1 kw*
   
-  *b) 3750 W =  3750 W × (0.001kw/1W) = 3.75 kw*
+  *b) 3750 W =  3750 W × (0.001 kw / 1 W) = 3.75 kw*
   
-  *c) 160 W = 160 W × (0.001kw/1W) = 0.16 kw*
+  *c) 160 W = 160 W × (0.001 kw / 1 W) = 0.16 kw*
   
-  *d) 50,000 W = 50000W × (0.001kw/1W) = 50 kw*
+  *d) 50,000 W = 50000W × (0.001 kw / 1 W) = 50 kw*
   
   
   8. Convierta las siguientes cantidades en miliwatts:
   
-  *a) 1 W = 1W × (1000 mW/1W) = 1000 mW*
+  *a) 1 W = 1W × (1000 mW / 1 W) = 1000 mW*
   
-  *b) 0.4 W = 0.4W × (1000 mW/1W) = 400 mW*
+  *b) 0.4 W = 0.4W × (1000 mW / 1 W) = 400 mW*
   
-  *c) 0.002 W = 0.002 W × (1000 mW/1W) = 2 mW*
+  *c) 0.002 W = 0.002 W × (1000 mW / 1 W) = 2 mW*
   
-  *d) 0.0125W = 0.0125W × (1000 mW/1W) = 12.5 mW*
+  *d) 0.0125 W = 0.0125 W × (1000 mW / 1 W) = 12.5 mW*
   
   
   10. Convierta las siguientes cantidades en watts:
