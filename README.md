@@ -37,46 +37,47 @@ R = V / I
 
 Sacando la resistencia del circuito: R = V/I     →    R = 1 V/5 mA   →    R = 0.2 kΩ 
 
-*(a) V = 1.5 V*   
+*a) V = 1.5 V*   
 
-* I = V/R   →      I = 1.5 V/0.2 kΩ      →   I = 7.5 mA
+* I = V / R   →      I = 1.5 V / 0.2 kΩ      →   I = 7.5 mA
 
-*(b) V = 2 V*    
+*b) V = 2 V*    
 
-* I = V/R   →      I = 2 V/0.2 kΩ        →   I = 10 mA
+* I = V / R   →      I = 2 V / 0.2 kΩ        →   I = 10 mA
 
-*(c) V = 3 V*    
+*c) V = 3 V*    
 
-* I = V/R   →      I = 3 V/0.2 kΩ        →   I = 15 mA
+* I = V / R   →      I = 3 V / 0.2 kΩ        →   I = 15 mA
 
-*(d) V = 4 V*     
+*d) V = 4 V*     
 
-* I = V/R   →      I = 4 V/0.2 kΩ        →   I = 20 mA
+* I = V / R   →      I = 4 V / 0.2 kΩ        →   I = 20 mA
 
-*(e) V = 10 V*   
+*e) V = 10 V*   
 
-* I = V/R   →      I = 10 V/0.2 kΩ       →   I = 50 mA
+* I = V / R   →      I = 10 V / 0.2 kΩ       →   I = 50 mA
+
 
 8.Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 
-*Resistencia: 8200 Ω ± 5%*
+-Resistencia: 8200 Ω ± 5%
 
-*La corriente se incrementaría cuatro veces si el voltaje se duplica y la resistencia se reduce a la mitad.*
+-La corriente se incrementaría cuatro veces si el voltaje se duplica y la resistencia se reduce a la mitad.
 
 10.¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
-image
 
 ![image](https://user-images.githubusercontent.com/105617383/170329429-c89b86c4-f093-443b-bef0-51e61e676082.png)
 
-*(a) I = V/R     →     I = 50 V / 3.3 kΩ = 15.15 mA*
+-a) I = V/R     →     I = 50 V / 3.3 kΩ = 15.15 mA
 
-*(b) I = V/R     →     I = 75 V / 3.9 kΩ = 19.23 mA*
+-b) I = V/R     →     I = 75 V / 3.9 kΩ = 19.23 mA
 
-*(c) I = V/R     →     I = 100 V / 4.7 kΩ = 21.278 mA*
+-c) I = V/R     →     I = 100 V / 4.7 kΩ = 21.278 mA
 
-*El circuito que tiene más corriente es el circuito (c).*
+El circuito que tiene más corriente es el circuito (c).
 
-*El cicrcuito que tiene menos corriente es el circuito (a).*
+El cicrcuito que tiene menos corriente es el circuito (a).
+
 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8  o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
 ![image](https://user-images.githubusercontent.com/105684550/170414181-373994bd-adb0-4402-b4e7-e70b1afd6564.png)
