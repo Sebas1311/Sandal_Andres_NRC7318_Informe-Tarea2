@@ -19,7 +19,8 @@
          - Relacionar graficas de circuitos electrónicos con la ley de ohm para saber cuando usarlo y como hacerlo de la mejor manera. 
 
 3.- Marco teórico
-
+![image](https://user-images.githubusercontent.com/105684550/170438897-0edefb13-ab90-46b3-b87c-20dfb3062f77.png)
+ Link del mapa mental: https://gitmind.com/app/doc/88f11122688
 
 4.- Resolución
 
