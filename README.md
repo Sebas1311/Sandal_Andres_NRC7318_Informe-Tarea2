@@ -206,54 +206,65 @@ R = 120 V / 2 A = 60 Ω
 
 En base a la imagen expuesta, se ha deducido que el foco fundio seria el número 4, es decir, el foco que se mide en el paso 4.
 
-  4.2.- Energía y potencia
+4.2.- Energía y potencia
+  
   
   12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
   
-  Datos:
+  *Datos:*
   P= 300 watts 
-  Transformando en Kw P= 0.3 kw
+  
+  *Transformando en Kw P= 0.3 kw*
   t= 30 dias 
-  transformando en horas t= 720h
-  calculando: (0,3 Kw) × (720h)= 216 Kwh.
+  
+  *transformando en horas t= 720h*
+  
+  *calculando: (0,3 Kw) × (720h)= 216 Kwh*
   
   14. Convierta 5*10^6 watts-minutos en kWh
   
-  5x10^6 W/min   = (1×〖10〗^(-3) Kw)/1W = 500 Kw/min × (60 m)/(1 h)  = 3×10^5 Kwh
+  *5x10^6 W/min   = (1×〖10〗^(-3) Kw)/1W = 500 Kw/min × (60 m)/(1 h)  = 3×10^5 Kwh*
+  
   
   16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
-  P = W / t
-  P = I^2 × R
-  P = (5 A)^2 × (47Ω) = 1175 W
-  t = W / P = (25 J) / (1175 W) = 0.02 segundos 
+  -P = W / t
+  -P = I^2 × R
+  -P = (5 A)^2 × (47Ω) = 1175 W
+  -t = W / P = (25 J) / (1175 W) = 0.02 segundos 
 
   Potencia en un circuito eléctrico
   
+  
   18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
-  P = V × I
-  P = (5.5 V) × (3×10^-3 A)
-  P = 0.016 W
+  -P = V × I
+  -P = (5.5 V) × (3×10^-3 A)
+  -P = 0.016 W
+  
   
 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
-  P = I^2 × R
-  P= (0.5 A)^2 × (4700 Ω)
-  P= 1175 W
-  Fuentes de potencia
+  -P = I^2 × R
+  -P= (0.5 A)^2 × (4700 Ω)
+  -P= 1175 W
+  -Fuentes de potencia
+  
   
 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+  
   Multiplicamos la correinte por las horas 
+  
   = (1.5 A) × ( 24 h) = 36 Ah 
   
+  
 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
-  Ah = (corriente) × (Xh)
-  Corriente = Ah / xh = 650 mAh / 48h = 13.54 mA
-  Corriente = 0.013 A
+  -Ah = (corriente) × (Xh)
+  -Corriente = Ah / xh = 650 mAh / 48h = 13.54 mA
+  -Corriente = 0.013 A
   
 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
-  Eficiencia = Psalida / Pentrada
-  Psalida = eficiencia × Pentrada
-  Psalida = 85% × 5W
-  Psalida = 4.25 W
-  Localización de fallas y análisis con archivos Multisim
+  -Eficiencia = Psalida / Pentrada
+  -Psalida = eficiencia × Pentrada
+  -Psalida = 85% × 5W
+  -Psalida = 4.25 W
+  -Localización de fallas y análisis con archivos Multisim
   
 38. Abra el archivo P04-38 y determine la corriente, el voltaje y la resistencia. Con los valores medidos, calcule la potencia.
